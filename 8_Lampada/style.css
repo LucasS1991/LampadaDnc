@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://img.freepik.com/fotos-premium/ondas-de-seda-vermelha-em-tela-cheia-como-plano-de-fundo_476363-5708.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    font-family: raleway;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    
+}
+.botao{
+    border-radius: 10px;
+    font-family: raleway;
+    background-color: brown;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    margin-bottom: 30px;
+
+
+
+    
+}
+section{
+    position: absolute;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 38%;
+    background-color: rgb(242, 226, 174);
+    border-radius: 20px;
+    margin-top: 0px;
+    width: 300px;
+    display: flex;
+    
+}
